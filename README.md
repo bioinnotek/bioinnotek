@@ -21,9 +21,9 @@ At __BioInnoTech__, we believe in the transformative power of combining bioinfor
 - Email: bioinnotech@outlook.com
 - Phone: +92 312 095 4503; +88 018 8627 1828
 - LinkedIn: [BioInnoTech on LinkedIn](https://www.linkedin.com/company/bioinnotek)
-- GitHub: [BioInnoTech on GitHub](https://github.com/BioInnoTech)
+- GitHub: [BioInnoTech on GitHub](https://github.com/bioinnotek)
 
-### 😄 Pronouns: We/Us
+### Pronouns: We/Us
 
 ### ⚡ Fun fact:
 We’re a passionate team that thrives on turning complex biological data into meaningful insights that can change the world.
